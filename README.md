@@ -1,2 +1,2 @@
-# nodeClientPvP
-Cliente Node Peli vs Peli
+# nodeServerPvP
+Servidor Node Peli vs Peli
